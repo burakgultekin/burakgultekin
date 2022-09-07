@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @burakgultekin
-- 👀 I’m interested in medical software development, AI in medicine and prticularly in surgery
+- 👀 I’m interested in medical software development, AI in medicine, particularly in surgery
 - 🌱 I’m currently learning Pyhton
 - 💞️ I’m looking to collaborate on software developers for medical purposes
 - 📫 How to reach me: burakgultekin@yahoo.com
